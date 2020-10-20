@@ -10,6 +10,9 @@
 2. 听歌
 
 曾学过些html和java
+
+    console.log('hello world')
+    
 ```javascript
     function f(){
         console.log('hello world')
