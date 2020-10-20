@@ -12,7 +12,7 @@
 曾学过些html和java
 ```javascript
     function f(){
-        console.log(hello world)
+        console.log('hello world')
     }
     fu()
 ```
